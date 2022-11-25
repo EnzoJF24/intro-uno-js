@@ -10,4 +10,4 @@ const nombre = "Enzo";
 const apellido = "Fulcheri";
 nombreCompleto = `${nombre} ${apellido}`;
 
-console.log(nombreCompleto);
+console.log(nombreCompleto)
