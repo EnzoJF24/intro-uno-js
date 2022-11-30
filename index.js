@@ -1,10 +1,9 @@
-/*let ciudad="junin";
+let ciudad="junin";
 let numRand=45;
-ciudad=numRand;
+ciudad=numRand
 console.log("ciudad: " + ciudad);
-console.log("numero Random: " + numRand);*/     //esto esta comentado para que solo se imprima lo de abajo
+console.log("numero Random: " + numRand);     //esto hay que comentarlo para que solo se imprima lo de abajo
 
-//--------------------------------------
 
 const nombre = "Enzo";
 const apellido = "Fulcheri";
