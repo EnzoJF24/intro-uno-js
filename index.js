@@ -1,11 +1,11 @@
-/*let ciudad="junin";
+let ciudad="junin";
 let numRand=45;
 ciudad=numRand
 console.log("ciudad: " + ciudad);
-console.log("numero Random: " + numRand)     //esto hay que comentarlo para que solo se imprima lo de abajo
+console.log("numero Random:" + numRand)     //esto hay que comentarlo para que solo se imprima lo de abajo
 
 
-const nombre = "Enzo";
+/*const nombre = "Enzo";
 const apellido = "Fulcheri";
 nombreCompleto = `${nombre} ${apellido}`;
 
@@ -13,7 +13,7 @@ console.log(nombreCompleto)*/
 
 //--------------------------------------
 
-/*const celular ={
+const celular ={
     marca: "motorola",
     color: "azul",
     precio: 19000,
@@ -27,15 +27,15 @@ delete celular.marca;
 
 for (const [key, value] of Object.entries(celular)) {
     console.log(`${key}: ${value}`);
-}*/
+}
 
-/*let array = [1,2,3,4];
+let array = [1,2,3,4];
 let array2 = [...array,5]
 console.log(array)
-console.log(array2)*/
+console.log(array2)
 
 const person = {
-    name: 'Pepe',
+    name: 'Jose',
     age: 26,
     hobbies: ['chess', 'running', 'basket']
 }
